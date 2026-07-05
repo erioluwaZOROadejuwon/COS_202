@@ -36,8 +36,7 @@ symbol when prompted.
 - Uses Python's `match-case` statement to handle operator selection
 - Invalid commands and invalid operators are both handled with clear error messages
 
-### Sample Output
-See screenshot: `Screenshot 2026-07-05 165911.png`
+
 
 ---
 
