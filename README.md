@@ -2,9 +2,8 @@
 
 ## Author
 - **Name:** [ADEJUWON ERIOLUWA IYANUAYO]
-- **Matric Number:** [241201104]
 - **Course:** COS202
-- **Lecturer:** [DR AJAYI]
+
 
 ## Overview
 This repository contains the practical solutions submitted for the COS202 
